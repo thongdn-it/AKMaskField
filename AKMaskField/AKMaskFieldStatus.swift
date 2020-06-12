@@ -12,5 +12,5 @@
 
 public enum AKMaskFieldStatus {
     
-  case clear, incomplete, complete
+    case clear, incomplete, complete
 }

@@ -12,4 +12,3 @@ public struct AKMaskFieldBrackets {
     
     let left, right: Character
 }
-    

@@ -23,13 +23,13 @@ final class ViewController: UIViewController {
         return cardProgrammatically ?? cardStoryboard
     }
     private var phone: AKMaskField {
-        return cardProgrammatically ?? cardStoryboard
+        return phoneProgrammatically ?? phoneStoryboard
     }
     private var key: AKMaskField {
-        return cardProgrammatically ?? cardStoryboard
+        return keyProgrammatically ?? keyStoryboard
     }
     private var license: AKMaskField {
-        return cardProgrammatically ?? cardStoryboard
+        return licenseProgrammatically ?? licenseStoryboard
     }
     
     //  MARK: - Connections:

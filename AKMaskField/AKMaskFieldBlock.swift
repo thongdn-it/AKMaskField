@@ -73,6 +73,4 @@ public struct AKMaskFieldBlock {
     public var templateRange: NSRange {
         return NSMakeRange(chars.first!.templateRange.location, chars.count)
     }
-    
-    
 }
